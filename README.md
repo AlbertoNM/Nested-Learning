@@ -424,19 +424,6 @@ mini_hope,3,wikitext2,1.98,0.95,NaN,NaN
 
 ---
 
-## ✅ Checklist de Setup
-
-- [ ] Estructura de carpetas creada
-- [ ] `requirements.txt` instalado
-- [ ] `.env.example` copiado a `.env`
-- [ ] `data/` directories creados
-- [ ] `results/` directories creados
-- [ ] First notebook ejecutable
-- [ ] Git repositorio inicializado
-- [ ] `.gitignore` en place
-
----
-
 ## 📞 Troubleshooting
 
 Ver `docs/TROUBLESHOOTING.md` para problemas comunes.
